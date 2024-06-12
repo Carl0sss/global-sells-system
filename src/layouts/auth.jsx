@@ -21,6 +21,11 @@ export function Auth() {
       icon: UserIcon,
     },
     {
+      name: "rrhh",
+      path: "/rrhh/empleados",
+      icon: UserIcon,
+    },
+    {
       name: "sign up",
       path: "/auth/sign-up",
       icon: UserPlusIcon,
